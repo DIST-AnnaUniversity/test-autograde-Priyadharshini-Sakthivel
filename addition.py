@@ -1,3 +1,3 @@
-def (a,b):
+def add (a,b):
     total = a+b
     return total
